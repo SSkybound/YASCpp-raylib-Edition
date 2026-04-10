@@ -7,7 +7,7 @@ Yet Another Snake Clone, written in C++20 using [raylib](https://www.raylib.com/
 Requires [CMake](https://cmake.org/) 3.20 or later and a C++20 compiler. raylib is fetched automatically at configure time via CMake's FetchContent — no manual installs needed.
 
 ```bash
-git clone https://github.com/yourusername/raylib_YASCpp.git
+git clone https://github.com/SSkybound/raylib_YASCpp.git
 cd raylib_YASCpp
 cmake -S . -B out
 cmake --build out
